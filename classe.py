@@ -3,7 +3,7 @@ class Aluno:
         self.matricula = matricula
         self.nome = nome
 
-aluno1 = Aluno(84938264, 'Felipe')
+aluno1 = Aluno(84938264, 'Felipe é lindo')
 aluno2 = Aluno(84938644, 'Thayna')
         
 print(aluno1.nome, aluno1.matricula)
